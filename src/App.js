@@ -7,6 +7,11 @@ import "./App.css";
 import Logo from "./components/DisplayComponents/Logo";
 import NumberButtons from "./components/ButtonComponents/NumberButtons/NumberButton";
 import Numbers from "./components/ButtonComponents/NumberButtons/Numbers";
+import OperatorButtons from "./components/ButtonComponents/OperatorButtons/OperatorButton";
+import Operators from "./components/ButtonComponents/OperatorButtons/Operators";
+import SpecialButtons from "./components/ButtonComponents/SpecialButtons/SpecialButton";
+import Specials from "./components/ButtonComponents/SpecialButtons/Specials";
+
 
 function App() {
   // STEP 5 - After you get the components displaying using the provided data file, write your state hooks here.
